@@ -10,3 +10,8 @@ if (currentTime === 0600) {
 } else {
     alert("Not Time To Wake Up!");
 }
+function test(a,b) {
+    return a * b;
+
+console.log(2,4)
+}
